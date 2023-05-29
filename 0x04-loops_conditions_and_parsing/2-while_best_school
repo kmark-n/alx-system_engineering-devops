@@ -1,10 +1,10 @@
 #!/usr/bin/env bash
 # Displays "Holberton School" 10 times using a while loop.
 
-count = 0
+count=0
 
-while [ $count -1t 10 ]
+while [ $count -lt 10 ]
 do
-  echo "Best School"
+  echo "Holberton School"
   (( count++ ))
 done
