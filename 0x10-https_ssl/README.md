@@ -1,6 +1,8 @@
 
 ![image](https://github.com/kmark-n/alx-system_engineering-devops/assets/117804697/6a4024fb-3a2e-4528-b8d6-00cbff6ad0fb)
 
+![image](https://github.com/kmark-n/alx-system_engineering-devops/assets/117804697/3c61958b-a222-49d0-a27f-884003e10941)
+
 
 1. HTTPS - is the secure version of HTTP, the protocol over which data is sent between your browser and the website that you are connected to.
 
